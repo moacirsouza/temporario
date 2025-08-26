@@ -20,3 +20,4 @@ print(f'Hello World!')
 3. E este é o terceiro!
 4. E finalmente, o quarto (mas não o de dormir)
 5. Para não dizer que somos preguiçosos, lá vai o quinto!
+6. Eita, nem imaginava que eu precisaria de tantos itens nesta lista!
