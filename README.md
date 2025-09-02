@@ -22,3 +22,4 @@ print(f'Hello World!')
 5. Para não dizer que somos preguiçosos, lá vai o quinto!
 6. Eita, nem imaginava que eu precisaria de tantos itens nesta lista!
 7. De fato, a lista só cresce. Que loucura!
+8. Oitavo item adicionado (ufa, quanta coisa!)
