@@ -23,4 +23,4 @@ print(f'Hello World!')
 6. Eita, nem imaginava que eu precisaria de tantos itens nesta lista!
 7. De fato, a lista só cresce. Que loucura!
 8. Oitavo item adicionado (ufa, quanta coisa!)
-
+0. Nono commit FEiToCom basTan3tae coisadoe
