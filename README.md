@@ -14,7 +14,7 @@ print(f'Hello World!')
 ```
 - Continuação da lista não numerada
 - Último item da lista não numerada
-linha intrusa
+
 1. Esta é uma lista numerada
 2. Este é o seguindo item
 3. E este é o terceiro!
