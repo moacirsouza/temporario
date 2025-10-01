@@ -28,3 +28,4 @@ print(f'Hello World!')
 11. Ônzimo! Não, pera...
 12. Décimo segundo! (Uau!)
 13. Trêzimo!
+14. Décimo quarto.
