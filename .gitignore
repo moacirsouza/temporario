@@ -1,3 +1,16 @@
+# --------------------------
+# Temporary files
+# --------------------------
 *swp
+*tmp*
+*.log
+
+# --------------------------
+# Temporary files exceptions
+# --------------------------
+!logImportante.log
+
+# --------------------------
+# Temporary directories
+# --------------------------
 tempDoTemp/
-*.tmp
