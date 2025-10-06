@@ -11,6 +11,14 @@
 !logImportante.log
 
 # --------------------------
-# Temporary directories
+# Temporary directories:
+# These are directories used
+# for testing purposes only.
+# They're not supposed to be
+# in the prod version of the
+# software. If you seen a 
+# tempDoTemp/ dir somewhere,
+# execute the following:
+# git rm --cached <dir>
 # --------------------------
 tempDoTemp/
