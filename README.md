@@ -33,5 +33,6 @@ print(f'Hello World!')
 16. Agora vai?
 17. Atualização sacana!
 18. Na verdade, ESTA é a atualização sacana!
-19. Alterando as coisas APENAS na local (porque eu sou bobo, igual a uma
+19. ESTA é a décima nona linha de VERDADE!
+20. Alterando as coisas APENAS na local (porque eu sou bobo, igual a uma
 capivara)
