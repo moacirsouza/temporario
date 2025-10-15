@@ -38,3 +38,4 @@ print(f'Hello World!')
 capivara)
 21. Será que eu vou gerar um novo conflito agora?
 22. Não, agora eu não gerei um conflito :D
+23. Simulação de conflito (armado)
