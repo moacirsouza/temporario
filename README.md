@@ -36,3 +36,4 @@ print(f'Hello World!')
 19. ESTA é a décima nona linha de VERDADE!
 20. Alterando as coisas APENAS na local (porque eu sou bobo, igual a uma
 capivara)
+21. Será que eu vou gerar um novo conflito agora?
