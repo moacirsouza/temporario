@@ -39,3 +39,4 @@ capivara)
 21. Será que eu vou gerar um novo conflito agora?
 22. Não, agora eu não gerei um conflito :D
 23. Linha pacifista, que não gosta de conflito!
+24. Linha vinte e quatro
