@@ -1,3 +1,0 @@
-# BLU
-
-blu é maiúsculo
